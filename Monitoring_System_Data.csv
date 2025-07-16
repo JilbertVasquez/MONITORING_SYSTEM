@@ -1,0 +1,6 @@
+SR-CODE,Student Name,Section,Professor,Date,Time,Device Name,System,System Release,System Version,Installed Memory,Installed Memory (RAM),Edition,System Type,Processor,GPU,Monitor ID,Keyboard ID,Mouse ID
+20-08633,Jilbert S. Vasquez,CPE-3204,sir Abdon,05/12/23,00:01,DESKTOP-UUTKA7R,Windows,10,10.0.19045,7.37,8.00,Microsoft Windows 10 Pro,64-bit operating system,AMD Ryzen 5 5600G with Radeon Graphics         ,AMD Radeon(TM) Graphics,MONITOR\MDA0238,HID\VID_1A2C&PID_4094&REV_0110&MI_00,HID\VID_1C4F&PID_0034&REV_0110
+20-08633,jilbert vasquez,cpe-4204,none,06/29/25,12:49,LAPTOP-JIL,Windows,10,10.0.26100,7.71,8.00,Microsoft Windows 11 Home Single Language,64-bit operating system,13th Gen Intel(R) Core(TM) i5-13420H,NVIDIA GeForce RTX 2050,"MONITOR\ACR0C9D
+","HID\VID_3151&PID_4015&REV_0101&MI_00
+","HID\VID_3151&PID_4015&REV_0101&MI_01&Col04
+"
