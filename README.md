@@ -26,7 +26,7 @@ MONITORING_SYSTEM is a Python desktop application designed for monitoring and ma
 - Search, filter, and export data for analysis.
 
 ## Database
-- Uses SQLite for local data storage.
+- Uses MySQL for local data storage.
 - Includes `AdminDB.sql` for initial database setup.
 
 ## Author
